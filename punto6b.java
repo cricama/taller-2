@@ -1,6 +1,6 @@
-package punto6c;
+package punto6b
 import java.util.Scanner;
-class punto6c {
+class punto6b {
 
 	public static void main(String[] args) {
 		
